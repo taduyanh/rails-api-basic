@@ -1,0 +1,10 @@
+error_formatter:
+  error_code_key: "error_code"
+  error_codes:
+    data_operation: 600
+    unauthorized: 601
+    token_expired: 602
+    record_not_found: 603
+    validation_errors: 604
+    unauthenticated: 606
+  message_key: "message"
